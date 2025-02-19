@@ -4,6 +4,9 @@ a{
 h1{
     font-size: xx-large; text-align: center; color: #FA165E;
 }
+h2{
+    font-size: xx-large; text-align: center; color: #0c720c;
+}
 p{
     font-size: x-large; font-family: sans-serif; color: #d3d2d2;
 }
@@ -37,7 +40,3 @@ html{
     
 }
 
-h2{
-    text-align: center;
-    color: white;
-}
